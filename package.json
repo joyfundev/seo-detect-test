@@ -1,0 +1,30 @@
+{
+  "name": "seo-detect-test",
+  "version": "0.0.1",
+  "author": "jsclin",
+  "description": "A Node.js package scan a html content and show all of SEO detect",
+  "main": "index.js",
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyfundev/seo-detect-test.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "bugs": {
+    "url": "https://github.com/joyfundev/seo-detect-test/issues"
+  },
+  "homepage": "https://github.com/joyfundev/seo-detect-test#readme",
+  "devDependencies": {}
+}
